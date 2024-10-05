@@ -1,0 +1,39 @@
+###############################################################################
+#                                                                             #
+#                            HI48  - Version 1.00                             #
+#                          Aspect Ratio 1:2.0 / 1:2                           #
+#                                                                             #
+#                  CHARLIE COAL Control File - ROM Revision J                 #
+#                                                                             #
+#                      (c) Copyright 2024 Jens Rumberg                        #
+#                                                                             #
+#                          based on Smartcharlemagne                          #
+#                     (c) Copyright 2019 Giuseppe Donnini                     #
+#                                                                             #
+###############################################################################
+
+Global
+    Print "_____________________________________"
+    Print ""
+    Print " HI48 (1:2.0 / 2:1)"
+    Print " Version 1.00"
+    Print " by Jens Rumberg"
+    Print ""
+    Print " Based on Smartcharlemagne"
+    Print " by Giuseppe Donnini."
+    Print ""
+    Print "_____________________________________"
+
+    Title   "HP-48SX[J] - CHARLIE COAL 1:2.0"
+    Author  "Jens Rumberg"
+    Model   "S"
+    Rom     "48sx_j.rom"
+    Bitmap  "charlie_coal_2.0.png"
+    Debug   0
+End
+
+Include "48sx_2.0.bck"
+Include "48sx_2.0.lcd"
+Include "coal.lcd"
+Include "48sx_2.0.ann"
+Include "48sx_2.0.key"

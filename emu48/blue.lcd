@@ -1,0 +1,90 @@
+###############################################################################
+#                                                                             #
+#                             HI48 - Version 1.00                             #
+#                                                                             #
+#                                 BLUE LCD Ink                                #                                                                         #
+#                             Jens Rumberg - 2024                             #
+#                                                                             #
+#                          based on Smartcharlemagne                          #
+#                     (c) Copyright 2019 Giuseppe Donnini                     #
+#                                                                             #
+###############################################################################
+
+Lcd
+    ####### INK ########
+    Color  0 230 240 230   # A       ABSOLUTE MIN. \  Only configurable by
+    Color  1 222 233 227   # A                      - writing directly to the
+    Color  2 213 226 224   # A                     /  Hardware Ctrl Registers
+
+    Color  3 205 219 221   # B1      MIN. CONFIGURABLE BY [ON]+[-] \
+    Color  4 191 207 216   # B1                                     |
+    Color  5 178 196 211   # B1                                     |
+    Color  6 164 184 206   # B1                                     |
+    Color  7 150 172 201   # B1                                     |
+    Color  8 136 160 196   # B1                                     |
+    Color  9 123 149 191   # B1                                     |
+    Color 10 109 137 186   # B1                                     |
+                           #                                        |   USER
+    Color 11  95 125 181   # B2      RESET VALUE                     > CONFIG-
+    Color 12  87 102 181   # B2                                     |  URABLE
+    Color 13  80  79 181   # B2                                     |
+    Color 14  72  55 181   # B2                                     |
+    Color 15  64  32 181   # B2                                     |
+                           #                                        |
+    Color 16  64  32 181   # B3                                     |
+    Color 17  64  32 181   # B3                                     |
+    Color 18  64  32 181   # B3                                     |
+    Color 19  64  32 181   # B3      MAX. CONFIGURABLE BY [ON]+[+] /
+
+    Color 20  64  32 181   # C                     \
+    Color 21  64  32 181   # C                      |
+    Color 22  64  32 181   # C                      |
+    Color 23  64  32 181   # C                      |
+    Color 24  64  32 181   # C                      |  Only configurable by
+    Color 25  64  32 181   # C                       > writing directly to the
+    Color 26  64  32 181   # C                      |  Hardware Ctrl Registers
+    Color 27  64  32 181   # C                      |
+    Color 28  64  32 181   # C                      |
+    Color 29  64  32 181   # C                      |
+    Color 30  64  32 181   # C                      |
+    Color 31  64  32 181   # C       ABSOLUTE MAX. /
+
+
+    ###### PAPER #######
+    Color 32 230 240 230   # A   0   OFF / ABS. MIN. \  Only configurable by
+    Color 33 230 240 230   # A   1                    - writing directly to the
+    Color 34 230 240 230   # A   2                   /  Hardware Ctrl Registers
+
+    Color 35 230 240 230   # B1  3   MIN. CONFIGURABLE BY [ON]+[-] \
+    Color 36 230 240 230   # B1  4                                  |
+    Color 37 230 240 230   # B1  5                                  |
+    Color 38 230 240 230   # B1  6                                  |
+    Color 39 230 240 230   # B1  7                                  |
+    Color 40 230 240 230   # B1  8                                  |
+    Color 41 230 240 230   # B1  9                                  |
+    Color 42 230 240 230   # B1 10                                  |
+                           #                                        |   USER
+    Color 43 230 240 230   # B2 11   RESET VALUE                     > CONFIG-
+    Color 44 230 240 230   # B2 12                                  |  URABLE
+    Color 45 230 240 230   # B2 13                                  |
+    Color 46 230 240 230   # B2 14                                  |
+    Color 47 230 240 230   # B2 15                                  |
+                           #                                        |
+    Color 48 196 198 220   # B3 16                                  |
+    Color 49 163 156 210   # B3 17                                  |
+    Color 50 129 113 200   # B3 18                                  |
+    Color 51  95  71 190   # B3 19   MAX. CONFIGURABLE BY [ON]+[+] /
+
+    Color 52  93  68 189   # C  20                 \
+    Color 53  90  65 189   # C  21                  |
+    Color 54  88  62 188   # C  22                  |
+    Color 55  86  59 187   # C  23                  |
+    Color 56  83  56 187   # C  24                  |  Only configurable by
+    Color 57  81  53 186   # C  25                   > writing directly to the
+    Color 58  78  50 186   # C  26                  |  Hardware Ctrl Registers
+    Color 59  76  47 185   # C  27                  |
+    Color 60  74  44 184   # C  28                  |
+    Color 61  71  41 184   # C  29                  |
+    Color 62  69  38 183   # C  30                  |
+    Color 63  64  32 181   # C  31   ABSOLUTE MAX. /
+End

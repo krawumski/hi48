@@ -1,0 +1,49 @@
+###############################################################################
+#                                                                             #
+#                            HI48  - Version 1.00                             #
+#                         Aspect Ratio 1:2.33 / 21:9                          #
+#                                                                             #
+#                           Shared ANNUNCIATOR File                           #
+#                                                                             #
+#                      (c) Copyright 2024 Jens Rumberg                        #
+#                                                                             #
+#                          based on Smartcharlemagne                          #
+#                     (c) Copyright 2019 Giuseppe Donnini                     #
+#                                                                             #
+###############################################################################
+
+Annunciator 1        # Left Shift  ( <--. )
+    Size 42 40
+    Offset 124 25
+    Down 1120 0
+End
+
+Annunciator 2        # Right Shift  ( .--> )
+    Size 42 40
+    Offset 220 25
+    Down 1195 0
+End
+
+Annunciator 3        # Alpha  ( Lowercase Greek Alpha )
+    Size 49 40
+    Offset 434 25
+    Down 1270 0
+End
+
+Annunciator 4        # Alarm  ( ((*)) )
+    Size 55 40
+    Offset 609 25
+    Down 1344 0
+End
+
+Annunciator 5        # Busy  ( Hourglass )
+    Size 42 40
+    Offset 784 25
+    Down 1420 0
+End
+
+Annunciator 6        # I/O  ( >>--> )
+    Size 52 40
+    Offset 956 25
+    Down 1494 0
+End

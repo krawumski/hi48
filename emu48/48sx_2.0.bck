@@ -1,0 +1,18 @@
+###############################################################################
+#                                                                             #
+#                            HI48  - Version 1.00                             #
+#                          Aspect Ratio 1:2.0 / 1:2                           #
+#                                                                             #
+#                           Shared BACKGROUND File                            #
+#                                                                             #
+#                      (c) Copyright 2024 Jens Rumberg                        #
+#                                                                             #
+#                          based on Smartcharlemagne                          #
+#                     (c) Copyright 2019 Giuseppe Donnini                     #
+#                                                                             #
+###############################################################################
+
+Background
+        Offset    0    0
+        Size   1080 2160
+End

@@ -1,0 +1,17 @@
+###############################################################################
+#                                                                             #
+#                            HI48  - Version 1.00                             #
+#                         Aspect Ratio 1:2.33 / 21:9                          #
+#                                                                             #
+#                                LCD GEOMETRY                                 #
+#                             Jens Rumberg - 2024                             #
+#                                                                             #
+#                          based on Smartcharlemagne                          #
+#                     (c) Copyright 2019 Giuseppe Donnini                     #
+#                                                                             #
+###############################################################################
+
+Lcd
+    Zoom    8
+    Offset  16 105
+End
