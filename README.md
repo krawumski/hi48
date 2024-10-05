@@ -1,4 +1,7 @@
 # HI48
+![gold_coal_2 0](https://github.com/user-attachments/assets/0e7663cc-549c-42d1-b86e-236d80721236)
+![charlie_coal_2 0](https://github.com/user-attachments/assets/4b8c81ef-a1dd-47af-8ff9-b6682a38b301)
+
 When recently I got a new Xperia phone I could not find any HP calculator emulations that made use of the entire 21:9 display. The only options seemed to be letterboxing or expanding a smaller skin in the vertical direction none of which does the careful HP designs justice. This clearly was an unacceptable situation so on a rainy public holiday afternoon I started Photoshop and built a new skin for [Emu48](https://github.com/dgis/emu48android) from scratch. To enable the free placement of the rows of keys the graphics for each key and label were constructed as separate elements and then placed on a synthetic background (basically a coloured rectangle that can be scaled to any size). The resulting graphics are of a high fidelity without any compression artefacts.
 
 The skin is inspired by Giuseppe Donnini's [Smart Charlemagne](https://www.hpmuseum.org/forum/thread-14197.html) set of skins and I borrowed his system for creating the KML scripts to support different versions of skins. There are currently skins for two different aspect ratios:
