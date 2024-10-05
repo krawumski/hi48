@@ -4,7 +4,7 @@ When recently I got a new Xperia phone I could not find any HP calculator emulat
 The skin is inspired by Giuseppe Donnini's [Smart Charlemagne](https://www.hpmuseum.org/forum/thread-14197.html) set of skins and I borrowed his system for creating the KML scripts to support different versions of skins. There are currently skins for two different aspect ratios:
 
 - 1:2.33, or 21:9. This is the somewhat unusual aspect ratio of Sony phones such as the Xperia 5. It represents the long shape of the HP48 rather well, especially since it does not have rounded corners. Could be a reasoon for HP nerds to get an Xperia.
-- 1:2.0, or 18:9. After checking the usable aspect ratios of various phones I decided that this should work better on modern phones than a 16:9 aspect ratio. On phones with large corner radii such as the iPhone letterboxing cannot be avoided and from the numnbers I found the 2:1 aspect could work. Haven't checked it though!
+- 1:2.0, or 18:9. After checking the usable aspect ratios of various phones I decided that this should work better on modern phones than a 16:9 aspect ratio. On phones with large corner radii such as the iPhone letterboxing cannot be avoided and from the numbers I found the 2:1 aspect could work. Haven't checked it though!
 
 ## Colour Schemes
 There are two different colour schemes for the keyboard, and two variants for the display ink. These are also inspired by Smart Charlemagne and I have adopted the naming. The following colour schemes are available:
